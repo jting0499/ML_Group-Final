@@ -33,8 +33,8 @@ code ~/.gitconfig
 
 ```
 [user]
-# Please adapt and uncomment the following lines:
-        name = <Name>
-        email = <github email>
-        username = <github username>
+Please adapt and uncomment the following lines:
+        name = <Jenny TING>
+        email = <tingjenny88430@gmail.com>
+        username = <jting0499>
 ```
